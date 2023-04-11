@@ -1,0 +1,7 @@
+.custom{
+    background-image: url("weather.jpg");
+    background-size: cover;
+    background-position: 0%;
+    background-blend-mode:darken;
+    border-radius: 0%;
+}
